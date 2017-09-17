@@ -62,3 +62,5 @@ gem 'jquery-rails'
 
 gem 'jquery', '~> 0.0.1'
 
+gem 'acts_as_votable', '~> 0.10.0'
+
